@@ -1,0 +1,7 @@
+C:\Users\Ezizchik\source\repos\Casting\Casting\bin\Debug\Casting.exe.config
+C:\Users\Ezizchik\source\repos\Casting\Casting\bin\Debug\Casting.exe
+C:\Users\Ezizchik\source\repos\Casting\Casting\bin\Debug\Casting.pdb
+C:\Users\Ezizchik\source\repos\Casting\Casting\obj\Debug\Casting.csproj.AssemblyReference.cache
+C:\Users\Ezizchik\source\repos\Casting\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+C:\Users\Ezizchik\source\repos\Casting\Casting\obj\Debug\Casting.exe
+C:\Users\Ezizchik\source\repos\Casting\Casting\obj\Debug\Casting.pdb
